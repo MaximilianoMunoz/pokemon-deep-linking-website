@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "CK4G837GQS.com.kingtide.deeplink.demo",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
