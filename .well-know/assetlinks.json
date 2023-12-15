@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mmunoz.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["CB:C2:0C:D0:F8:06:D8:0F:58:B9:7D:E5:26:7C:DA:F7:2B:2D:51:CC:BD:47:41:A0:E6:AC:57:E8:B6:80:70:DF"]
+    }
+  }]
+  
